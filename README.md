@@ -1,58 +1,64 @@
 <div align="Center">
-<img width="100" src="https://i.imgur.com/XYzX7Jg.png" alt="Logo CodeGets" />
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
 <div align="center">
 
-<a href="https://github.com/getsai18">
-<img src="https://i.imgur.com/P4DfB5X.gif" alt="Banner anime CodeGets" />
+<a href="https://github.com/CtorW">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/getsai18?label=Sígueme&style=for-the-badge&color=ff69b4)](https://github.com/getsai18)
-[![GitHub Stars](https://img.shields.io/github/stars/getsai18?style=for-the-badge&color=ff69b4)](https://github.com/getsai18)
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 </div>
 
-🎌 **CodeGets** | 💻 **Dev Java/C** | 🐧 **Linux Lover** | 🌸 **Anime Fan**  
 
-🌱 Actualmente obsesionado con **Arch Linux**, personalizando mi **Hyprland** con temas *kawaii* y coleccionando **dotfiles** como **NekoTheme** y **SakuraDots**.
+🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
 
-💻 Construyendo mi propio **Java Framework** para apps otaku-friendly.
+💻 Passionately building an **Arch Installer** project. 
+
 
 <div align="Center">
-<h1>🛠️ Habilidades</h1>
+<h1>Skills</h1>
 </div>
 
 <div align="Center">
 
-| Programación | Sistemas |
+| Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=java,c,linux,bash,vim"/> | <img src="https://skillicons.dev/icons?i=git,github,eclipse,idea,neovim"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
 </div>
 
+<br>
 <br>
 <br>
 
 <div align="Center">
-<h1>💖 SO Favoritos</h1>
-<img src="https://skillicons.dev/icons?i=linux,arch,mint,ubuntu,alpine"/>  
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
 </div>
 
 <br>
 <br>
 
-| Mis contribuciones en forma de neko 🐱 |
+| Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![Snake anime](https://github.com/getsai18/getsai18/blob/output/github-contribution-grid-snake.svg) | 
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
 
 <div align="Center">
 
-| Estadísticas CodeGets | Racha Máxima |
+| CtorW's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=getsai18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)  | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=getsai18&theme=tokyonight&hide_border=true) |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
-| Lenguajes Top |
+| Most Lang |
 | ----------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getsai18&theme=tokyonight&hide_border=true&layout=compact&langs_count=6) |
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
 
 </div>
 
@@ -61,13 +67,13 @@
 
 <div align="Center">
 
-| 🌸 Contacta a este otaku dev 🌸 |
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:tucorreo@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎ <a href="https://instagram.com/tuinstagram"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎ <a href="https://discord.com/users/tuid"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
 ------
-✨ *"Kawaii code is eternal"* - **CodeGets**  
-🎨 Diseño inspirado en [CtorW](https://github.com/CtorW)  
-📅 Última actualización: 2023
+
+Credit: [Ctorw](https://github.com/CtorW)
+Last Edited on: 12/04/2005
