@@ -12,7 +12,7 @@
 </div>
 
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🌱 Passionately coding in **Java, C & C++** while listening to music | **Arch Linux** enthusiast | Currently customizing my **Hyprland** setup and exploring awesome **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**
 
 💻 Passionately building an **Arch Installer** project. 
 
