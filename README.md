@@ -1,43 +1,39 @@
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
 <div align="center">
-
-<a href="https://github.com/CtorW">
+<a href="https://github.com/getsai18">
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/getsai18?label=Follow&style=social)](https://github.com/getsai18)
+[![GitHub Stars](https://img.shields.io/github/stars/getsai18?style=social)](https://github.com/getsai18)
 </div>
 
+🌱 Apasionado del desarrollo backend en **Java & Spring Framework** | Entusiasta de **Linux (Ubuntu & Kali)** | Construyendo soluciones con **Arquitectura Hexagonal** y buenas prácticas de diseño
 
-🌱 Passionately coding in **Java, C & C++** while listening to music | **Arch Linux** enthusiast | Currently customizing my **Hyprland** setup and exploring awesome **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**
+💻 Explorando **Spring Security**, **JPA** y patrones de diseño **POO** aplicados a proyectos reales.
 
-💻 Passionately building an **Arch Installer** project. 
-
+---
 
 <div align="Center">
-<h1>Skills</h1>
+<h1>⚙️ Skills</h1>
 </div>
 
 <div align="Center">
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| Backend | Bases de Datos | Herramientas & Diseño |
+| ------- | -------------- | --------------------- |
+| <img src="https://skillicons.dev/icons?i=java,spring,c,cpp"/> | <img src="https://skillicons.dev/icons?i=mysql,oracle"/> | <img src="https://skillicons.dev/icons?i=figma,github,vscode"/> |
 
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="Center">
-<h1>Operating Systems</h1>
-
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
-
+<h1>🖥️ Operating Systems</h1>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu"/>
+<br>
+<sub>Ubuntu · Kali Linux</sub>
 </div>
 
 <br>
@@ -45,20 +41,17 @@
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| Stats | Ultimate Streak |
+| ----- | --------------- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=getsai18&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=getsai18&theme=onedark&hide_border=true) |
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
+| Most Used Languages |
+| ------------------- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=getsai18&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 </div>
 
@@ -67,13 +60,11 @@
 
 <div align="Center">
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| ‎ ‎ ‎ ‎ Contacto ‎ ‎ ‎ ‎ |
+| ---------------------- |
+| <a href="mailto:angulogetsai16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a> |
 
 </div>
 
 ------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+Last Edited on: 22/03/2026
